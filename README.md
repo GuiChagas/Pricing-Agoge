@@ -1,1 +1,1 @@
-# Pricing_agoge
+Treinamento sobre princing utilizando triggers - Salesforce
